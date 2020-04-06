@@ -1,0 +1,19 @@
+Week 0
+======
+
+This week's lesson came immediately after I'd finished a Codecademy unit on the command line and bash scripting, so I felt like I had a bit of an advanrtage.  I really enjoyed watching the lecture and taking notes to reaffirm.
+
+Homework
+--------
+
+The assignment this week was to create something with Scratch, which was fun.  I decided to make a game based on Dante's Inferno.  
+
+~~MISTAKE.~~  
+
+I was working on making sprites and backgrounds and trying to get the coding to work for over eight hours straight, and returned to it several times over the following days.  In the end, it's not perfect, but I'm proud of the work that I've done - especially since it's my first real project!!
+
+If you're interested in checking it out, feel free to follow this link and give it a play:
+
+[Dante's Inferno: A Game](https://scratch.mit.edu/projects/381685809/)
+
+~~(Known bugs: occasional return-to-start even when you don't hit an enemy...I'm working on it.)~~
