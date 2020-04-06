@@ -7,7 +7,4 @@ About
 
 This repository was created to store projects (or links to projects) created as homework for Harvard's CS50x class.  Feel free to browse!
 
-By week...
-----------
-[Week 0](/Week0)
 
